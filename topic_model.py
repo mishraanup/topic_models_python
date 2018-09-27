@@ -6,7 +6,7 @@
 
 Example usage:
     python topic_model.py DOCUMENT_NAME.txt 5
-    python topic_model.py document_embc_2015.txt 3
+    python topic_model.py resources/document_embc_2015.txt 3
 """
 
 
